@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React lesson 3 remote
+          Learn React lesson 3 local remote
         </a>
       </header>
     </div>
